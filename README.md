@@ -46,7 +46,7 @@
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/em9.png)
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/emp9.png)
 
-## Output:
+
 
 ### Name: v.sanjay
 ### Register Number: 23012749
