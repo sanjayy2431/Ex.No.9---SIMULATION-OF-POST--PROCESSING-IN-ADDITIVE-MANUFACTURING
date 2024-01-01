@@ -33,21 +33,26 @@
 
 ## OUTPUT :
 
-## Support Removal Process
+## Support Removal Process:
+
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/empd9.jpg)
+
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/empd9.2..png)
 
 
-## UV Curing of 3D printed part
+## UV Curing of 3D printed part:
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/empd9uv..png)
+
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/empduv9.png)
 
 
 
 
 
-## Heat Treatment of 3D printed part
+## Heat Treatment of 3D printed part:
+
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/em9.png)
+
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/emp9.png)
 
 
