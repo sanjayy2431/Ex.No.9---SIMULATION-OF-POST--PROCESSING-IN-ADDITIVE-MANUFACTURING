@@ -45,7 +45,13 @@
 ## Heat Treatment of 3D printed part
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/em9.png)
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/emp9.png)
+
+
+
+
 ### Name: v.sanjay
 ### Register Number: 23012749
+
+
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed .
