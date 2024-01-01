@@ -42,6 +42,10 @@
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/empd9uv..png)
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/empduv9.png)
 
+
+
+
+
 ## Heat Treatment of 3D printed part
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/em9.png)
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/emp9.png)
